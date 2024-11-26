@@ -1,0 +1,15 @@
+{
+    "users": [
+      {
+        "id": "1e4f",
+        "email": "black@gmail.com",
+        "password": "123"
+      },
+      {
+        "id": "1036",
+        "email": "abc@gmail.com",
+        "password": "121"
+      }
+    ],
+    "posts": []
+  }
